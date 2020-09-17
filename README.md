@@ -1,4 +1,10 @@
 ### Hi there 👋
+### 🌱 I’m currently learning how to make a website using Angular and deploy it on github pages
+### check my personal website -> SatitaVitt.github.io
+### slowly (cross--) converting my ideas into codesss
+### 🔭 Really need a job tho...
+### 📫 Reach me at : sv439@scarletmail.rutgers.edu
+
 
 <!--
 **SatitaVitt/SatitaVitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
