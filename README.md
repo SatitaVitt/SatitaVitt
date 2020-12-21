@@ -1,9 +1,6 @@
 ### Hi there 👋
-### 🌱 I’m currently learning how to make a website using Angular and deploy it on github pages
-### check my personal website -> http://SatitaVitt.github.io
+### check out my personal website -> http://SatitaVitt.github.io
 ### slowly (cross--) converting my ideas into codesss
-### 🔭 Really need a job tho...
-### 📫 Reach me at : sv439@scarletmail.rutgers.edu
 
 
 <!--
